@@ -7,6 +7,8 @@ All completed feel good programs &amp; projects.
 
 * [BFS Graph Search Algorithm](./bfs-graph-adjList/README.md)
 
+* [Misc Sort Functions]( ./sort-functions/README.md)
+
 
 # Projects
 
