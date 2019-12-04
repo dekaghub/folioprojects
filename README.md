@@ -1,4 +1,4 @@
-# folioprojects
+# Portfolio Projects & Programs
 All completed feel good programs &amp; projects.
 
 # Programs
