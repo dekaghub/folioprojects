@@ -1,0 +1,6 @@
+User input : 97
+Coin Denominations : 9, 4, 3, 1
+
+
+Change	Coins	Time Taken
+97	12	5300 ns
