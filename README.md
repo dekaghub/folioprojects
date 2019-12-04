@@ -3,11 +3,11 @@ All completed feel good programs &amp; projects.
 
 # Programs
 
-* [Coin Change Problem](./coin-change-problem/README.md)
+* [Coin Change Problem](./coin-change-problem/)
 
-* [BFS Graph Search Algorithm](./bfs-graph-adjList/README.md)
+* [BFS Graph Search Algorithm](./bfs-graph-adjList/)
 
-* [Misc Sort Functions]( ./sort-functions/README.md)
+* [Misc Sort Functions]( ./sort-functions/)
 
 
 # Projects
