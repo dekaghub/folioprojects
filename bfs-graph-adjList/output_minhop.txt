@@ -1,0 +1,18 @@
+
+
+Nodes	Edges	Time Taken
+30	60	110800 ns
+Result : Distance from node N1 to node N6 is 5 and Path : N6<-N14<-N29<-N17<-N15<-N1
+
+50	200	214900 ns
+Result : Distance from node N14 to node N39 is 2 and Path : N39<-N11<-N14
+
+100	1000	623400 ns
+Result : Distance from node N69 to node N20 is 3 and Path : N20<-N52<-N80<-N69
+
+200	4000	1871900 ns
+Result : Distance from node N19 to node 199 is 0
+
+1000	10000	5572000 ns
+Result : Distance from node N69 to node N422 is 3 and Path : N422<-N988<-N394<-N69
+
