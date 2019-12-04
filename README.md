@@ -7,7 +7,9 @@ All completed feel good programs &amp; projects.
 
 * [BFS Graph Search Algorithm](./bfs-graph-adjList/)
 
-* [Misc Sort Functions]( ./sort-functions/)
+* [Misc Sort Functions](./sort-functions/)
+
+* [Misc Python Programs](./one-file-programs/)
 
 
 # Projects
