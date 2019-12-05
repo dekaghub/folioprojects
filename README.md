@@ -11,6 +11,8 @@ All completed feel good programs &amp; projects.
 
 * [Misc Python Programs](./one-file-programs/)
 
+* [Python Concepts + Tests](./python-concepts/)
+
 
 # Projects
 
