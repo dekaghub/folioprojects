@@ -1,10 +1,4 @@
 {
-    "window.zoomLevel": 0,
-    "python.pythonPath": "D:\\Python 38\\python.exe",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.jediEnabled": false,
     "workbench.colorTheme": "One Dark Pro",
     "workbench.colorCustomizations": {
         "activityBar.background": "#0c0b0b6c",
@@ -42,6 +36,4 @@
         "strings": "#8882db",
         "comments": "#b3a9a99f"
     },
-    "explorer.confirmDragAndDrop": false,
-    "dart.flutterSdkPath": "D:\\Program Files\\flutter"
 }
