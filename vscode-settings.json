@@ -1,0 +1,47 @@
+{
+    "window.zoomLevel": 0,
+    "python.pythonPath": "D:\\Python 38\\python.exe",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0c0b0b6c",
+        "activityBar.foreground": "#5998f7",
+        "activityBar.inactiveForeground": "#4684bda8",
+        // side bar | explorer | extension list
+        "sideBar.background": "#1f1f1f",
+        "sideBar.foreground": "#a6ddfd",
+        // tab section
+        "tab.hoverBackground": "#0a101f",
+        "tab.inactiveBackground": "#26262786",
+        "tab.activeBackground": "#080d16",
+        "tab.inactiveForeground": "#aca992ab",
+        "tab.activeForeground": "#fff3f3",
+        "tab.border": "#b8931baf",
+        // editor section
+        "editor.background": "#1a1b1de0",
+        "editorBracketMatch.background": "#ff3e689f",
+        "editorSuggestWidget.highlightForeground": "#f5f5f5",
+        "editorSuggestWidget.selectedBackground": "#5674f8c0",
+        "editorSuggestWidget.border": "#f8e3e373",
+        "editorCursor.foreground": "#00eeff",
+        // button
+        "button.foreground": "#020101",
+        "button.background": "#daa24f",
+        // top title/menu bar
+        "titleBar.activeBackground": "#181818",
+        "titleBar.border": "#092444"
+    },
+    "editor.tokenColorCustomizations": {
+        "functions": "#7798f1",
+        "variables": "#be5a5a",
+        "keywords": "#f36959",
+        "types": "#3de2ff",
+        "strings": "#8882db",
+        "comments": "#b3a9a99f"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "dart.flutterSdkPath": "D:\\Program Files\\flutter"
+}
