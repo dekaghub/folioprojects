@@ -1,5 +1,4 @@
 import json
-
 test = '{"author":"YouthfulPhotographer","author_flair_css_class":null,"author_flair_text":null,"body":"Welcome to generation void ","can_gild":true,"controversiality":0,"created_utc":1517443200,"distinguished":null,"edited":false,"gilded":0}'
 
 x = json.loads(test)
@@ -12,3 +11,6 @@ test = """{"author":"YouthfulPhotographer","author_flair_css_class":null,"author
 for line in test.split('\n'):
     x = json.loads(line)
     print(x['author'], ':', x['body'])
+
+# Pretty json in Python
+# print(json.dumps(jsonObject, indent=4, sort_keys=True))
