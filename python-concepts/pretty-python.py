@@ -66,6 +66,36 @@ print(t)
 # One Line variable inits
 a,b,c, = 1,2,3
 print('a : ', a,' b : ', b, ' c : ', c)
+
 x = [5,6,7]
 a,b,c = x
 print('a : ', a,' b : ', b, ' c : ', c)
+
+a,b,c = (a + 10,
+         b + 20,
+         c + 30)
+print('a : ', a,' b : ', b, ' c : ', c)
+
+
+# Concatenate strings in linear time
+# Avoid quadratic time with + operator
+words = ['Combine','this','into','a','sentence']
+s = ' '.join(words)
+print(s)
+
+s = words[1].join(' ').join(words[4]) # cool single space transform
+print(s)
+
+# Use decorators to differentiate Library/User code
+def admincode(func):
+    s = [1,2,3]
+    def wrapper(a):
+        print('This is admin level.')
+        func(a)
+    return wrapper
+
+@admincode
+def usercode(a):
+    print('this is ', a)
+
+usercode('test')
