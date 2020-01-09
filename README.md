@@ -1,5 +1,5 @@
 Susamta 'Defie' Deka
-[deviedefie@gmail.com](mailto:deviedefie@gmail.com)
+deviedefie@gmail.com
 
 # Portfolio Projects & Programs
 All completed feel good programs &amp; projects.
