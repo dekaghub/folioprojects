@@ -1,9 +1,9 @@
-Susamta 'Defie' Deka
+Susanta 'Defie' Deka
 
- deviedefie@gmail.com
+deviedefie@gmail.com
 
 # Portfolio Projects & Programs
-All completed feel good programs &amp; projects.
+All complete feel good programs &amp; projects.
 
 # Programs
 
